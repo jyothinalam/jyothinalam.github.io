@@ -5,7 +5,7 @@ Personal portfolio showcasing my technical skills in Artificial Intelligence for
 ## Projects
 ### Project 1
 - Description
-- Links
+- [Github_Repository](https://github.com/jyothinalam/PWSkills-DataScienceProjects)
 
 ### Project 2
 - Description
