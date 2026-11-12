@@ -1,2 +1,20 @@
 # jyothinalam.github.io
+
 Personal portfolio showcasing my technical skills in Artificial Intelligence for Project Manager/Product Manager Roles.
+
+## Projects
+### Project 1
+- Description
+- Links
+
+### Project 2
+- Description
+- Links
+
+# Education
+- Master of Computer Applications
+
+# Work History
+- Workplace 1
+- Workplace 2
+
