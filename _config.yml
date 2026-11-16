@@ -1,3 +1,25 @@
+# Site Settings
 title: Jyothi Nalamaru
 description: AI Project Manager | Data Scientist
+avatar: "/assets/images/profile.jpg"
+
+# URL Settings (Crucial for styling and links to work)
+url: "https://jyothinalam.github.io" # GitHub Pages URL
+#baseurl: "/repository-name"       # Leave as "" if your repo matches username.github.io
+baseurl: ""       # Leave as "" if your repo matches username.github.io
+
+# Theme Configuration
 theme: jekyll-theme-minimal
+
+# Social Media Links (Depending on your theme)
+#twitter_username: your_handle
+#github_username:  your_username
+
+# Build Settings
+#markdown: kramdown
+#permalink: /:categories/:title/
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules/
+#  - vendor/
